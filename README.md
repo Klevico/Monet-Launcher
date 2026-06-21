@@ -14,14 +14,19 @@ https://play.google.com/store/apps/details?id=com.klevico.monet
 
 ## Features
 
-- Dynamic colors based on your wallpaper
-- Custom wallpapers, including video and aerial wallpapers
-- Home screen widgets
-- Per-app artwork. Set your own image for any app tile
-- Content rows: Recommendations, Continue Watching and Live TV channels
+- Dynamic colors that match your wallpaper
+- Wallpapers from several sources (your own images and videos, built-in, aerial, or Reddit), with auto-rotation, blur and brightness control
+- Home screen widgets: clock and date, weather, now playing, and network/Bluetooth status
+- Home rows you can show, hide and reorder: Continue Watching, Recommendations, Live TV, favorites, all apps, and HDMI inputs
+- Set your own artwork per app, choose icon shapes, or use icon packs
 - A favorites dock for the apps you use most
+- Organize apps into folders, and rename, hide or uninstall them from the launcher
 - Multiple user profiles
-- Optional PIN lock and autostart on boot
+- Per-app PIN lock
+- Screensaver with a custom image or video and an idle timeout
+- Autostart on boot or after standby
+- Theming: light or dark, accent and text colors, adjustable app size and grid
+- Back up and restore your settings
 
 ## Requirements
 
@@ -34,7 +39,6 @@ https://play.google.com/store/apps/details?id=com.klevico.monet
 2. On your TV, allow installs from unknown sources
    (Settings → Device Preferences → Security & restrictions → Unknown sources).
 3. Install the APK with a file manager (X-plore, Send Files to TV, etc.) or over adb.
-4. Press the Home button and pick Monet as your default home app.
 
 ### Install over adb
 
