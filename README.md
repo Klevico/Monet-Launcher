@@ -7,9 +7,7 @@ This repository is only for distributing the APK. If the Play Store says your
 device is "not compatible" (common on Ugoos, AOSP boxes and other non-certified
 hardware), download the APK from the Releases page and install it manually.
 
-Supported devices can install from the Play Store:
-
-<a href="https://play.google.com/store/apps/details?id=com.klevico.monet"><img alt="Get it on Google Play" height="80" src="screenshots/google-play-badge.png"></a>
+<a href="https://github.com/Klevico/Monet-Launcher/releases/latest"><img alt="Download the APK" height="80" src="screenshots/download-apk-badge.png"></a> &nbsp; <a href="https://play.google.com/store/apps/details?id=com.klevico.monet"><img alt="Get it on Google Play" height="80" src="screenshots/google-play-badge.png"></a>
 
 ![Monet home screen](screenshots/dynamic-colors.png)
 
