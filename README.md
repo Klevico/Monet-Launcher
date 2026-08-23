@@ -27,6 +27,12 @@ hardware), download the APK from the Releases page and install it manually.
 - Theming: light or dark, accent and text colors, adjustable app size and grid
 - Back up and restore your settings
 
+## Support
+
+If Monet is useful to you, you can support its development here:
+
+<a href="https://buymeacoffee.com/klevico"><img alt="Buy Me a Coffee" height="60" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"></a>
+
 ## Requirements
 
 - Android TV or Google TV device
